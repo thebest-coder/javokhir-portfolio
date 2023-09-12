@@ -1,0 +1,32 @@
+.fab{
+    font-size: 30px;
+    padding: 5px 8px 0 0;
+    color: rgba(33, 37, 41, 0.75);
+}
+
+.fab:hover{
+    color: rgba(0, 0, 0, 1);
+    transition: color .30s ease-in-out;
+}
+
+
+.fa-youtube:hover{
+    color: red;
+}
+
+.fa-telegram:hover{
+    color: #229ed9;
+}
+
+.fa-instagram:hover{
+    color: #E4405F;
+}
+
+.card-body h1{
+    color: #000;
+    font-weight: bold;
+}
+
+.card-body p{
+    font-size: 1.8rem;
+}
